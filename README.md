@@ -1,2 +1,2 @@
-# TarefaGrafico
-Tarea de gráfico interativo do Projeto 3 do curso Ciência de Dados
+# Tarefa Grafico
+Tarea de gráfico interativo do curso Ciência de Dados
